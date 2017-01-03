@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1481214640 source:c:\users\ikky\documents\c++\praktikum\main.cpp
+	<iostream>
+	<stdlib.h>
+	"modul1.cpp"
+	"modul2.cpp"
+	"modul2tambahan1.cpp"
+	"modul2tambahan2.cpp"
+	"modul3.cpp"
+	"modul3tambahan.cpp"
+	"amalia.cpp"
+	"andre.cpp"
+	"fandi1.cpp"
+	"fandi2.cpp"
+	"griko1.cpp"
+	"griko2.cpp"
+	"griko3.cpp"
+	"imam1.cpp"
+	"imam2.cpp"
+	"taufan.cpp"
+
+1481208719 c:\users\ikky\documents\c++\praktikum\modul1.cpp
+	<iostream>
+
+1481208731 c:\users\ikky\documents\c++\praktikum\modul2.cpp
+	<iostream>
+
+1481210919 c:\users\ikky\documents\c++\praktikum\modul2tambahan1.cpp
+	<iostream>
+
+1481210933 c:\users\ikky\documents\c++\praktikum\modul2tambahan2.cpp
+	<iostream>
+
+1481208804 c:\users\ikky\documents\c++\praktikum\modul3.cpp
+	<iostream>
+	<stdlib.h>
+
+1481210957 c:\users\ikky\documents\c++\praktikum\modul3tambahan.cpp
+	<iostream>
+	<cstring>
+
+1481210970 c:\users\ikky\documents\c++\praktikum\amalia.cpp
+	<iostream>
+	<cstring>
+
+1481210989 c:\users\ikky\documents\c++\praktikum\andre.cpp
+	<iostream>
+
+1481211004 c:\users\ikky\documents\c++\praktikum\fandi1.cpp
+	<iostream>
+	<cstring>
+
+1481211018 c:\users\ikky\documents\c++\praktikum\fandi2.cpp
+	<iostream>
+	<cstdlib>
+
+1481557146 c:\users\ikky\documents\c++\praktikum\griko1.cpp
+	<iostream>
+
+1481211034 c:\users\ikky\documents\c++\praktikum\griko2.cpp
+	<iostream>
+
+1481211051 c:\users\ikky\documents\c++\praktikum\griko3.cpp
+	<iostream>
+	<cstring>
+
+1481211063 c:\users\ikky\documents\c++\praktikum\imam1.cpp
+	<iostream>
+	<cstring>
+
+1481211071 c:\users\ikky\documents\c++\praktikum\imam2.cpp
+	<iostream>
+	<cstring>
+
+1481210978 c:\users\ikky\documents\c++\praktikum\taufan.cpp
+	<iostream>
+	<cstring>
+
